@@ -48,8 +48,8 @@ $lang = array_merge($lang, array(
 		1 => 'Você irá desativar %1$s extensão.',
 		2 => 'Você irá desativar %1$s extensões.',
 	),
-	'DISABLE_EXTENSTIONS'			=> 'Desativar todas as extensões',
-	'DISABLE_EXTENSTIONS_EXPLAIN'	=> 'Esta extensão irá desativar todas as extensões. Ela não irá excluir dados associados com as extensões e você poderá reativar novamente em <strong>“Personalização”</strong>.<br /><br />Se você quiser remover uma extensão então após desativa-la você <strong>deve</strong> “Excluir dados” da extensão <strong>antes</strong> de excluir os arquivos.',
+	'DISABLE_EXTENSIONS'			=> 'Desativar todas as extensões',
+	'DISABLE_EXTENSIONS_EXPLAIN'	=> 'Esta extensão irá desativar todas as extensões. Ela não irá excluir dados associados com as extensões e você poderá reativar novamente em <strong>“Personalização”</strong>.<br /><br />Se você quiser remover uma extensão então após desativa-la você <strong>deve</strong> “Excluir dados” da extensão <strong>antes</strong> de excluir os arquivos.',
 
 	'EXTENSIONS_DISABLED'			=> array(
 		0 => 'Nenhuma extensão foi desativada',
