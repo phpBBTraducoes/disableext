@@ -38,8 +38,8 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'ARE_YOU_SURE'					=> array(
-		1 => 'Está certo que quer desativar %1$s extensão?',
-		2 => 'Está certo que quer desativar %1$s extensões?',
+		1 => 'Tem certeza de que deseja desativar %1$s extensão?',
+		2 => 'Tem certeza de que deseja desativar %1$s extensões?',
 	),
 
 	'CONTINUE'						=> 'Continue',
